@@ -1,5 +1,9 @@
 # F.A.Q - FRDM-KL25Z
 
+Criado por Matheus Santos de Oliveira (PAD 2016)
+
+Editado por Ricardo Bonna (PED 2017), Alexandre Maranhão (COMP-23) e Davi Muniz (COMP-23).
+
 ## Perguntas
 
   - [01 Qual a pasta que preciso por no SDK Absolute Path ao criar um projeto?](#2)
