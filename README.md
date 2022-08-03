@@ -6,15 +6,15 @@ Editado por Ricardo Bonna (PED 2017), Alexandre Maranhão (COMP-23) e Davi Muniz
 
 ## Perguntas
 
-  - [01 Qual a pasta que preciso por no SDK Absolute Path ao criar um projeto?](#2)
-  - [02 O que devo fazer depois de criar o projeto?](#3)
-  - [03 Kinetis Design Studio não detecta o microcontrolador no Ubuntu](#4)
-  - [04 Como usar o modo de debug em um programa?](#5)
-  - [05 Baixei os códigos fornecidos, coloquei-os na pasta Sources do meu projeto, mas não consigo dar build no projeto. Aparecem alguns erros nos meus includes.](#6)
-  - [06 Não entendo o que são esses símbolos de atribuição nem o que significam os comandos utilizados para declarar, inicializar e configurar pinos.](#7)
-  - [07 Estou tentando entender quais portas preciso utilizar, mas olhando na tabela do Marcílio de equivalência PIC x ARM vejo PTA, PTB, PTC... E não encontro eles no datasheet!](#8)
-  - [08 Configuração para utilização do timer como contador](#9)
-  - [09 Como faço para utilizar rotinas de interrupção no meu projeto?](#10)
+  - [01 Qual a pasta que preciso por no SDK Absolute Path ao criar um projeto?](#01-qual-a-pasta-que-preciso-por-no-sdk-absolute-path-ao-criar-um-projeto)
+  - [02 O que devo fazer depois de criar o projeto?](#02-o-que-devo-fazer-depois-de-criar-o-projeto)
+  - [03 Kinetis Design Studio não detecta o microcontrolador no Ubuntu](#03-kinetis-design-studio-não-detecta-o-microcontrolador-no-ubuntu)
+  - [04 Como usar o modo de debug em um programa?](#04-como-usar-o-modo-de-debug-em-um-programa)
+  - [05 Baixei os códigos fornecidos, coloquei-os na pasta Sources do meu projeto, mas não consigo dar build no projeto. Aparecem alguns erros nos meus includes.](#05-baixei-os-códigos-fornecidos-coloquei-os-na-pasta-sources-do-meu-projeto-mas-não-consigo-dar-build-no-projeto-aparecem-alguns-erros-nos-meus-includes)
+  - [06 Não entendo o que são esses símbolos de atribuição nem o que significam os comandos utilizados para declarar, inicializar e configurar pinos.](#06-não-entendo-o-que-são-esses-símbolos-de-atribuição-nem-o-que-significam-os-comandos-utilizados-para-declarar-inicializar-e-configurar-pinos)
+  - [07 Estou tentando entender quais portas preciso utilizar, mas olhando na tabela do Marcílio de equivalência PIC x ARM vejo PTA, PTB, PTC... E não encontro eles no datasheet!](#07-estou-tentando-entender-quais-portas-preciso-utilizar-mas-olhando-na-tabela-do-marcílio-de-equivalência-pic-x-arm-vejo-pta-ptb-ptc-e-não-encontro-eles-no-datasheet)
+  - [08 Configuração para utilização do timer como contador](#08-configuração-para-utilização-do-timer-como-contador)
+  - [09 Como faço para utilizar rotinas de interrupção no meu projeto?](#09-como-faço-para-utilizar-rotinas-de-interrupção-no-meu-projeto)
 
 ### 01 Qual a pasta que preciso por no SDK Absolute Path ao criar um projeto?
 
