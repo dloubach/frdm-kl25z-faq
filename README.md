@@ -46,10 +46,10 @@ ___
 </p>
 
 ### 03 - Kinetis Design Studio não detecta o microcontrolador no Ubuntu
-Instale o libusb-dev,
+Instale o libusb-dev:
 
 ```
-sudo apt install libusb-dev.
+sudo apt install libusb-dev
 ```
 Testado no Ubuntu 18.04 e 20.04.
 
